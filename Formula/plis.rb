@@ -2,9 +2,9 @@ class Plis < Formula
   desc "Common Docker/Compose development commands abbreviated by asking nicely"
   homepage "https://github.com/IcaliaLabs/plis"
 
-  url "https://github.com/IcaliaLabs/plis/releases/download/v0.0.0.build7/plis-darwin_x86_64"
-  version "0.0.0.build7"
-  sha256 "0d95a568df3951d82f990c931c8a5cbaa9c76a6f23bb4e49e3f949d22b81b59f"
+  url "https://github.com/IcaliaLabs/plis/releases/download/v0.0.0.build8/plis-darwin_x86_64"
+  version "0.0.0.build8"
+  sha256 "59fc01afc669923381b84e11c2fd3e97e01d75f6fbe702b60bd8591fbca9f2fc"
 
   head "https://github.com/IcaliaLabs/plis.git"
 
