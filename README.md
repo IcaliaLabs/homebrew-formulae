@@ -17,7 +17,7 @@ Install the packages it contains like any other Homebrew package:
 
 ## Development tips
 
-If your'e maintaining this repo, this may help:
+If you're maintaining this repo, this may help:
 
 ```
 # At the root of this repository:
